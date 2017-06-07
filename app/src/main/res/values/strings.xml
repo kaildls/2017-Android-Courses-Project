@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">天气预报</string>
+    <string name="save_picture">保存图片</string>
+    <string name="save_picture_failed">保存失败</string>
+    <string name="save_picture_success">图片成功保存至%s目录</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+</resources>
